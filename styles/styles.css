@@ -334,19 +334,19 @@ section {
   transition: all 0.4s ease-in-out;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 100%;
+  width: 90%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 10%;
+  width: 50%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .javascript {
-  width: 10%;
+  width: 70%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .nodejs {
-  width: 10%;
+  width: 90%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .typescript {
-  width: 10%;
+  width: 50%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
   width: 20%;
